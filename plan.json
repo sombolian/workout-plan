@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "updatedAt": "2026-11-06T16:22:00+02:00",
+  "version": 4,
+  "updatedAt": "2026-11-06T21:36:42+02:00",
   "titleHe": "אימון כל הגוף",
   "defaultRestSec": 90,
   "exercises": [
@@ -58,7 +58,7 @@
         "https://raw.githubusercontent.com/sombolian/workout-plan/main/images/leg_curl_0.jpg",
         "https://raw.githubusercontent.com/sombolian/workout-plan/main/images/leg_curl_1.jpg"
       ],
-      "weight": "25 ק\"ג",
+      "weight": "32 ק\"ג",
       "sets": 3,
       "reps": "12",
       "durationSec": null,
