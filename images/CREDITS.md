@@ -15,6 +15,6 @@
 | cable_curl | free-exercise-db `Standing_Biceps_Cable_Curl` (0.jpg start, 1.jpg end) | Unlicense / public domain | https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Biceps_Cable_Curl |
 | triceps_pushdown | free-exercise-db `Triceps_Pushdown_-_Rope_Attachment` (0.jpg start, 1.jpg end) | Unlicense / public domain | https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown_-_Rope_Attachment |
 | dead_bug | free-exercise-db `Dead_Bug` (0.jpg start, 1.jpg end) | Unlicense / public domain | https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dead_Bug |
-| plank | free-exercise-db `Plank` (0.jpg start, 1.jpg end) | Unlicense / public domain | https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plank |
+| plank | free-exercise-db `Plank` 1.jpg (forearm plank; 0.jpg in upstream is a kneel prep so omitted) | Unlicense / public domain | https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plank |
 
 Images resized/cropped to max 800px wide.
